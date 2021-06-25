@@ -1,0 +1,17 @@
+.age-consider{
+    font-size: 7vw;
+    text-align: center;
+}
+
+body{
+    background-color: white;
+}
+
+.link-to:hover{
+    color: black;
+    background: white;
+}
+
+.link-cover{
+    text-align: center;
+}
